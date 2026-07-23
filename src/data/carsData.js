@@ -1,0 +1,56 @@
+export const heroCars = [
+  {
+    id: 1,
+    name: '1967 Toyota 2000GT',
+    price: '$39,000',
+    miles: '14,900 miles',
+    image: '/images/cars/car1.jpg',
+  },
+  {
+    id: 2,
+    name: '1967 Toyota 2000GT',
+    price: '$66,700',
+    miles: '14,900 miles',
+    image: '/images/cars/car2.jpg',
+  },
+  {
+    id: 3,
+    name: '1967 Toyota 2000GT',
+    price: '$39,000',
+    miles: '14,900 miles',
+    image: '/images/cars/car3.jpg',
+  },
+  {
+    id: 4,
+    name: '1967 Toyota 2000GT',
+    price: '$66,700',
+    miles: '14,900 miles',
+    image: '/images/cars/car4.png',
+  },
+  {
+    id: 5,
+    name: '1967 Toyota 2000GT',
+    price: '$39,000',
+    miles: '14,900 miles',
+    image: '/images/cars/car5.jpg',
+  },
+];
+
+export const catalogCars = [
+  { id: 1, name: '1967 Toyota 2000GT', price: '$39,000', miles: '14,900 miles', image: '/images/cars/car1.jpg' },
+  { id: 2, name: '1967 Toyota 2000GT', price: '$66,700', miles: '14,900 miles', image: '/images/cars/car2.jpg' },
+  { id: 3, name: '1967 Toyota 2000GT', price: '$39,000', miles: '14,900 miles', image: '/images/cars/car3.jpg' },
+  { id: 4, name: '1967 Toyota 2000GT', price: '$66,700', miles: '14,900 miles', image: '/images/cars/car4.png' },
+  { id: 5, name: '1967 Toyota 2000GT', price: '$39,000', miles: '14,900 miles', image: '/images/cars/car1.jpg' },
+  { id: 6, name: '1967 Toyota 2000GT', price: '$66,700', miles: '14,900 miles', image: '/images/cars/car5.jpg' },
+  { id: 7, name: '1967 Toyota 2000GT', price: '$39,000', miles: '14,900 miles', image: '/images/cars/car5.jpg' },
+  { id: 8, name: '1967 Toyota 2000GT', price: '$66,700', miles: '14,900 miles', image: '/images/cars/car4.png' },
+  { id: 9, name: '1967 Toyota 2000GT', price: '$39,000', miles: '14,900 miles', image: '/images/cars/car1.jpg' },
+  { id: 10, name: '1967 Toyota 2000GT', price: '$66,700', miles: '14,900 miles', image: '/images/cars/car5.jpg' },
+  { id: 11, name: '1967 Toyota 2000GT', price: '$38,000', miles: '14,900 miles', image: '/images/cars/car3.jpg' },
+  { id: 12, name: '1967 Toyota 2000GT', price: '$66,700', miles: '14,900 miles', image: '/images/cars/car4.png' },
+  { id: 13, name: '1967 Toyota 2000GT', price: '$39,000', miles: '14,900 miles', image: '/images/cars/car1.jpg' },
+  { id: 14, name: '1967 Toyota 2000GT', price: '$66,700', miles: '14,900 miles', image: '/images/cars/car5.jpg' },
+  { id: 15, name: '1967 Toyota 2000GT', price: '$38,000', miles: '14,900 miles', image: '/images/cars/car3.jpg' },
+  { id: 16, name: '1967 Toyota 2000GT', price: '$66,700', miles: '14,900 miles', image: '/images/cars/car4.png' },
+];
