@@ -112,7 +112,7 @@ npm run dev
 
 Open your browser and navigate to:
 ```
-http://localhost:5173
+(https://vintage-cars-autotrader.netlify.app/)
 ```
 
 ### 3. Build for Production
