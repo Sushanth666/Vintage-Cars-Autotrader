@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <rect width="64" height="64" rx="14" fill="#0f172a"/>
+  <!-- Vintage Classic Car Body -->
+  <path d="M10 38 C10 38 14 27 22 23 C28 20 36 20 42 23 C48 26 52 38 52 38 C55 38 57 39 57 42 L57 45 C57 46.5 55.8 47 54.5 47 L9.5 47 C8.2 47 7 46.5 7 45 L7 42 C7 39 9 38 10 38 Z" fill="#f8fafc"/>
+  <!-- Cabin Windshield -->
+  <path d="M21 24.5 L41 24.5 C43 27 44.5 31 45.5 35 L17.5 35 C18.5 31 20 27 21 24.5 Z" fill="#0f172a"/>
+  <!-- Wheels -->
+  <circle cx="18" cy="46" r="6" fill="#0f172a" stroke="#f8fafc" stroke-width="2.5"/>
+  <circle cx="18" cy="46" r="2.5" fill="#f8fafc"/>
+  <circle cx="46" cy="46" r="6" fill="#0f172a" stroke="#f8fafc" stroke-width="2.5"/>
+  <circle cx="46" cy="46" r="2.5" fill="#f8fafc"/>
+  <!-- Vintage Amber Headlight -->
+  <circle cx="52.5" cy="40" r="2.5" fill="#fbbf24"/>
+</svg>
