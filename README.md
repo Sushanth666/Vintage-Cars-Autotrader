@@ -112,7 +112,7 @@ npm run dev
 
 Open your browser and navigate to:
 ```
-(https://vintage-cars-autotrader.netlify.app/)
+https://vintage-cars-autotrader.netlify.app/
 ```
 
 ### 3. Build for Production
